@@ -22,6 +22,6 @@ function findLongestWordWithMostVowels(sentence) {
 }
 
 // Example usage
-const sentence = "Hello, this is a test sentence ppppppp üüüüüüüü writed by Erkal Alpay";
+const sentence = "Hello, this is a test sentence writed by Erkal Alpay";
 const longestWord = findLongestWordWithMostVowels(sentence);
 console.log("Longest word with most vowels:", longestWord);
